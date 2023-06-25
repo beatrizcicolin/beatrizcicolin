@@ -2,7 +2,7 @@
 
 -  Atualmente faço faculdade de Ciencias da Computação na EEP
 -  Estudando PHP
--  Pronouns: ela/dela
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
