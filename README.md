@@ -1,7 +1,7 @@
 ### Olá, eu sou a Beatriz Cicolin!
 
 -  Atualmente faço faculdade de Ciencias da Computação na EEP
--  Estudando PHP
+-  Estudando HTML e CSS
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
