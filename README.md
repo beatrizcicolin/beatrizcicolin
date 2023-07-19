@@ -1,6 +1,6 @@
 ### Olá, eu sou a Beatriz Cicolin!
 
--  Atualmente faço faculdade de Ciencias da Computação na EEP
+-  Atualmente cursando Ciencias da Computação na faculdade EEP
 -  Estudando HTML e CSS
 
  <div style="display: inline_block"><br>
